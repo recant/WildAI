@@ -1,1 +1,15 @@
 .venv
+# Model files
+*.gguf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# React Native (for when app is added)
+node_modules/
+android/app/build/
+android/.gradle/
+*.apk
+*.aab
